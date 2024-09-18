@@ -13,6 +13,7 @@ A presença dos emojis gera um visual mais atrativo para o game, com os sinais d
 Após fazer sua escolha, uma outra janela Tkinter é aberta com o resultado da partida, mostrando a opção do bot, a sua, e uma mensagem de vitória, empate ou derrota.
 
 As mensagens de resultado acompanham uma cor na tela para gerar um visual mais atrativo, sendo:
+
     • 'You win' em verde (vitória do jogador)
     • 'You loose' em vermelho (vitória do bot)
     • 'Draw' em azul claro (empate)
@@ -26,6 +27,7 @@ Sempre que uma nova partida é iniciada, há um acumulo de pontos referente ao v
 O jogador pode fechar o jogo quando quiser clicando no botão 'Close game', na janela principal.
 
 Sobre as bibliotecas:
+
     • Tkinter: Usada para criação das janelas para o jogo. Com ela, é possível criar aplicações com interfaces gráficas. A partir dela são criados os botões e comandos do jogo.
     • Emoji: Uma biblioteca simples que permite a utilização de emojis dentro do código. Gera uma visual mais atrativo no código, prezando por uma estética 'divertida'.
     • Random: Utilizada para randomizar as escolhar do bot dentro do jogo. Dessa forma, durante as rodadas o bot poderá randomizar suas escolhas dentro das opções disponíveis (pedra, papel, tesoura). Uma forma simples de promover um jogo versus contra o computador, de forma justa.
