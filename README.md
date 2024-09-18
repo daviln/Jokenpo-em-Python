@@ -31,16 +31,16 @@ Sobre as bibliotecas:
     - Random: Utilizada para randomizar as escolhar do bot dentro do jogo. Dessa forma, durante as rodadas o bot poderá randomizar suas escolhas dentro das opções disponíveis (pedra, papel, tesoura). Uma forma simples de promover um jogo versus contra o computador, de forma justa.
 
 Página inicial do jogo:
-![Home page](homepage.png)
+![Home page](images/homepage.png)
 
 Jogador vence:
-![victory](victory.png)
+![victory](images/victory.png)
 
 Jogador perde:
-![loose](loose.png)
+![loose](images/loose.png)
 
 Empate:
-![draw](draw.png)
+![draw](images/draw.png)
 
 
 English
